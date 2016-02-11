@@ -4,4 +4,4 @@ dist
 .sass-cache
 bower_components
 .idea
-node_modules
+
